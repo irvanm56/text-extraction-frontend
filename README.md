@@ -1,0 +1,2 @@
+# text-extraction-frontend
+Frontend
